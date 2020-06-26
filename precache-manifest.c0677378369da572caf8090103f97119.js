@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb3f2293325d3ced6d4ae34c3129432a",
+    "revision": "efed8cf08bfdd254763df7a6e852a39f",
     "url": "/index.html"
   },
   {
-    "revision": "9e50a514cd2d3a2f09e4",
+    "revision": "28e12815381fc7c625af",
     "url": "/static/css/main.cef23fe0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b7d0f469.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e50a514cd2d3a2f09e4",
-    "url": "/static/js/main.b73b5af4.chunk.js"
+    "revision": "28e12815381fc7c625af",
+    "url": "/static/js/main.204973d6.chunk.js"
   },
   {
     "revision": "482c3a96fd89e93ca36b",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/michigan_coronavirus.a7981762.png"
   },
   {
-    "revision": "e74eec440b01fd40845cd5ec247afaa5",
-    "url": "/static/media/public_companies_map.e74eec44.png"
+    "revision": "916f979e20bb16de40f9d93d9a1c5f2c",
+    "url": "/static/media/public_companies_map.916f979e.png"
   }
 ]);
